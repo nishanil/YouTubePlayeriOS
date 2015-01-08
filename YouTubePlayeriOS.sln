@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubePlayeriOS", "YouTubePlayeriOS\YouTubePlayeriOS.csproj", "{07756E7D-96C4-4D93-B248-DB803FBB382F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Release|iPhone.Build.0 = Release|iPhone
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{07756E7D-96C4-4D93-B248-DB803FBB382F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = YouTubePlayeriOS\YouTubePlayeriOS.csproj
+	EndGlobalSection
+EndGlobal
